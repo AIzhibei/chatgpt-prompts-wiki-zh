@@ -2,11 +2,9 @@
 
 ChatGPT是由[OpenAI](https://openai.com/)打造的一款基于人工智能的语言生成模型（对话机器人），可以理解和生成自然语言，帮助用户完成文本撰写、问题回答、创意生成等多种任务，提高工作效率和创新能力。
 
-在此页面中，您将找到输入 ChatGPT 的各种提示，只需按照README.md文件中的提示输入即可。
+在本页面中，您能找到可输入 ChatGPT 的各种提示。
 
-[点击这里](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh/edit/main/README.md) 您可以将自己实践的优秀提示也添加到文档中，让我们一起共创ChatGPT指令大全。
-
-[问题反馈](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh/issues/new)
+[点击这里](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh/edit/main/README.md) 您可以将自己实践的优秀提示也添加到文档中，让我们一起共创ChatGPT指令大全。[问题反馈](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh/issues/new)
 
 ### **ChatGPT指令大全：[AI指北手册](https://zhibei.sh-d.com/)**
 
@@ -18,7 +16,7 @@ ChatGPT是由[OpenAI](https://openai.com/)打造的一款基于人工智能的�
 
 共同讨论分享AIGC前沿资讯与使用技巧，同时群中还有免费ChatGPT聊天机器人“瓦力助手”陪伴哦！
 
-请加以下AI指北小助手进群：
+请扫码添加以下“AI指北小助手”进群：
 
 <img src="https://user-images.githubusercontent.com/129523847/229159983-5cdaa002-c575-41f6-a73a-f0d1f4987295.jpg" width="30%">
 
