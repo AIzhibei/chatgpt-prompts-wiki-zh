@@ -8,9 +8,9 @@ ChatGPT是由[OpenAI](https://openai.com/)打造的一款基于人工智能的�
 
 [问题反馈](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh/issues/new)
 
-### **免费高速的中文聊天机器人：[瓦力助手](http://www.waliai.com)**
-
 ### **ChatGPT指令大全：[AI指北手册](https://zhibei.sh-d.com/)**
+
+### **免费高速的中文聊天机器人：[瓦力助手](http://www.waliai.com)**
 
 ### 微信交流群-ChatGPT讨论群
 
@@ -18,8 +18,10 @@ ChatGPT是由[OpenAI](https://openai.com/)打造的一款基于人工智能的�
 
 共同讨论分享AIGC前沿资讯与使用技巧，同时群中还有免费ChatGPT聊天机器人“瓦力助手”陪伴哦！
 
-![小助手](https://user-images.githubusercontent.com/129523847/229159983-5cdaa002-c575-41f6-a73a-f0d1f4987295.jpg, =200x)
+请加以下AI指北小助手进群：
+
 <img src="https://user-images.githubusercontent.com/129523847/229159983-5cdaa002-c575-41f6-a73a-f0d1f4987295.jpg" width="30%">
+
 ------
 
 ## ChatGPT能干什么? 包括但不限于：
