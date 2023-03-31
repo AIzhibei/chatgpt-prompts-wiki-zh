@@ -18,7 +18,7 @@ ChatGPT是由[OpenAI](https://openai.com/)打造的一款基于人工智能的�
 
 共同讨论分享AIGC前沿资讯与使用技巧，同时群中还有免费聊天机器人“瓦力助手”陪伴哦！
 
-<img src="./pic/zhushou.jpg" width="300"/> 
+![image](./pic/zhushou.jpg)
 
 ------
 
