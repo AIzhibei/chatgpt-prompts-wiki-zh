@@ -17,7 +17,7 @@ ChatGPT是由[OpenAI](https://openai.com/)打造的一款基于人工智能的�
 ------
 
 # ChatGPT指令大全（共创中）
-[OpenAI]（./test）
+[OpenAI]（../test）
 ### 目录
 - [代码编写](#代码编写)
 - [绘画指令](#绘画指令)
