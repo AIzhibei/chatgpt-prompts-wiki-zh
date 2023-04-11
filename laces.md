@@ -1,4 +1,4 @@
-# 提问Prompt撰写的CLAR原则与LACES问题模型教程
+# 提问Prompt撰写的CLAR原则与LACES问题模型
 
 ## 目录
 
